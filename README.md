@@ -1,1 +1,1 @@
-# GenerateANftProject
+#Create NFT
